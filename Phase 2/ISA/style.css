@@ -1,0 +1,14 @@
+.box{
+    background: transparent;
+    border-style: solid;
+    border-color: white;
+    position: absolute;
+    border-width: 2px;
+    height:0;
+    width:0;
+}
+
+.box:hover{
+    border-width: 8px;
+    cursor: pointer;
+}
